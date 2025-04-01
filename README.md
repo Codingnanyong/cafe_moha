@@ -37,7 +37,7 @@ This application was developed to support the closing process at Cafe Moha by pr
 
 ```bash
 git clone https://github.com/Codingnanyong/cafe_moha.git
-cd cafe-moha-app
+cd cafe_moha/app
 ```
 
 ## 📃 License
